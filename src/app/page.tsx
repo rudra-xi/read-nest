@@ -60,7 +60,7 @@ export default function Home() {
 				<Image
 					src={heroImage}
 					alt="hero image"
-					className="w-auto h-165"
+					className="w-auto h-180"
 				/>
 			</div>
 		</section>
